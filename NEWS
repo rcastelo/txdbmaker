@@ -1,3 +1,17 @@
+VERSION 1.2.0
+-------------
+
+SIGNIFICANT USER-VISIBLE CHANGES
+
+    o Adjust makeTxDbFromBiomart() examples to reflect breaking change
+      in Ensembl 113. See commit a5a885d for the details.
+
+BUG FIXES
+
+    o Small fix to internal helper .Ensembl_getMySQLCoreDir(). See commit
+      aa586a6 for the details.
+
+
 VERSION 1.0.0
 -------------
 
